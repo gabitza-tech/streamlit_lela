@@ -1,0 +1,100 @@
+people	लोग, जनता, व्यक्ति, मानव, जनसमूह	log,vyakti
+man	आदमी, पुरुष, इंसान, मानव, पुरुष व्यक्ति	aadamii,puruss,imsaan,maanav
+building	इमारत, भवन, निर्माण, ढांचा, बिल्डिंग	imaarat,bhavan,bilddimg
+sit	बैठना, बैठ जाना, विराजना, आसन लेना, ठहरना	baitthanaa,baitth
+table	मेज़, डेस्क, टेबल, मेज़ें, कार्य टेबल	mez, ddeska, ttebal, mezem, maij
+stand	खड़ा होना, खड़ा रहना, टिकाना, ठहरना, स्थिर होना	khaddaa, tthaharanaa
+room	कमरा, कक्ष, स्थान, जगह, कोठरी	kamaraa,kakssa,sthaan,jagah,kottharii
+tree	पेड़, वृक्ष, तरु, द्रुम, पादप	pedd, vrkssa, brkssa
+field	खेत, मैदान, क्षेत्र, कार्यक्षेत्र, फील्ड	khet,maidaan,kssetra,kaaryakssetra,phiildda
+white	सफ़ेद, श्वेत, उजला, धवल, गोरा	safed,saphed,shvet,ujalaa,dhaval,goraa
+water	पानी, जल, नीर, तोय, वारि	paanii,jal,niir,toy,vaari
+woman	औरत, महिला, स्त्री, महिलाएं, महिला व्यक्ति	aurat, mahilaa, strii
+mountain	पहाड़, पर्वत, गिरि, शैल, अचल	pahaadd,parvat,giri,shail,acal
+chair	कुर्सी, आसन, पीठिका, पद, अध्यक्षता	kursii,pad
+black	काला, श्याम, स्याह, कृष्ण, अंधकारमय	kaalaa,shyaam,syaah,krssnna,amdhakaaramay
+large	बड़ा, विशाल, बड़े, बड़ा आकार, विशालकाय	baddaa, vishaal, badde, vishaalakaay
+bridge	पुल, सेतु, जोड़, संपर्क, ब्रिज	pul,setu,pulom,brij
+train	ट्रेन, रेलगाड़ी, रेल, प्रशिक्षण देना, अभ्यास करना	ttren,relagaaddii
+park	पार्क, उद्यान, बगीचा, उपवन, हरित क्षेत्र	paarka
+bed	बिस्तर, पलंग, चारपाई, बिस्तरें, सोने का स्थान	bistar, palamg, caarapaaii, bistarem, sone kaa sthaan
+car	कार, गाड़ी, वाहन, मोटर, ऑटो	kaar,gaaddii,vaahan,mottar,otto
+red	लाल, अरुण, रक्तिम, सुर्ख, ताम्र	laal,arunn,raktim,surkha,taamra
+kitchen	रसोई, पाकशाला, रंधनशाला, किचन, भोजन कक्ष	rasoii,kican,bhojan,rasoiighar,paakagrh
+road	सड़क, मार्ग, पथ, राजमार्ग, रास्ता	saddak,rodd,raastaa
+house	घर, मकान, निवास, गृह, भवन	haaus,ghar,makaan
+track	ट्रैक, रास्ता, पथ, मार्ग, ट्रैकों	ttraik
+garden	बगीचा, उद्यान, वाटिका, उपवन, बाग	bagiicaa,udyaan,baag
+walk	चलना, टहलना, पैदल जाना, सैर करना, भ्रमण	calanaa,ttahalanaa
+snow	बर्फ़, हिम, तुषार, हिमपात, शीत	barpha,him,tussaar,himapaat
+boat	नाव, नौका, किश्ती, डोंगी, जलयान	naav,naukaa,kishtii,ddomgii,jalayaan
+night	रात, रात्रि, निशा, रजनी, अंधेरी रात	raat,raatri,nishaa,rajanii
+wooden	लकड़ी का, काष्ठीय, काठ का, दारुज, लकड़ी निर्मित	lakaddii
+flower	फूल, पुष्प, कुसुम, सुमन, प्रसून	phuul,pusspa,kusum,suman,prasuun
+baseball	बेसबॉल, बॉल गेम, बेसबॉल्स	besabol, bol gem, besabolsa
+tower	मीनार, टावर, बुर्ज, शिखर, अट्टालिका	miinaar,ttaavar,shikhar,stambh
+old	पुराना, वृद्ध, बूढ़ा, प्राचीन, बीता हुआ	puraanaa,vrddha,buuddhaa,praaciin,biitaa huaa
+river	नदी, सरिता, नद, धारा, जलधारा	nadii,saritaa,nad,dhaaraa,jaladhaaraa
+golf	गोल्फ़, गोल्फ़ खेल, क्रीड़ा, खेल, मैदान खेल	golfa,golpha
+city	शहर, नगर, महानगर, नगरी, शहरी क्षेत्र	shahar,nagar,shaharii
+street	सड़क, गली, मार्ग, रास्ता, सड़क मार्ग	saddak,galii,raastaa
+church	चर्च, गिरजाघर, ईसाई मंदिर, प्रार्थनास्थल, गिरजा	carca,girajaaghar,girajaa,matth
+sky	आकाश, आसमान, गगन, नभ, अंबर	aakaash,aasamaan,gagan,nabh,ambar
+blue	नीला, नील, आसमानी, फिरोज़ी, नीलाभ	niilaa,niil,aasamaanii,phirozii,niilaabh
+green	हरा, हरित, हराभरा, कच्चा, पर्यावरणीय	haraa,harit,haraabharaa,kaccaa,paryaavaranniiy
+store	दुकान, भंडार, गोदाम, संग्रह करना, स्टोर	dukaan,sttor
+beach	समुद्र तट, तट, किनारा, बीच, तटीय क्षेत्र	samudra tatt,tatt,kinaaraa,biic,tattiiy kssetra
+play	खेलना, नाटक, अभिनय, क्रीड़ा, खेल	khelanaa,naattak,abhinay,kriiddaa,khel
+food	खाना, भोजन, आहार, खाद्य, निवाला	khaanaa
+pool	पूल, तालाब, कुंड, जलाशय, समूह	puul,taalaab,kumdd,jalaashay,samuuh
+rock	शिला, पत्थर, रॉक, चट्टान	patthar, rok, cattttaan
+horse	घोड़ा, अश्व, हय, तुरंग, वाजि	ghoddaa,ashva,hay,turamg,vaaji
+station	स्टेशन, ठिकाना, केंद्र, अड्डा, स्थान	stteshan,kemdra
+body	शरीर, देह, काया, तन, बदन	shariir,deh,kaayaa,ta,badan
+forest	जंगल, वन, अरण्य, कानन, वनों	jamgal,van,arannya,kaanan,vanom
+desk	डेस्क, कार्यस्थल, टेबल, डेस्कों, कार्यालय टेबल	ddeska, kaaryasthal, ttebal, ddeskom, maij
+window	खिड़की, झरोखा, विंडो, खिड़कियाँ, आवरण	khiddakii, jharokhaa, vimddo, khiddakiyaam, aavarann
+wall	दीवार, भित्ति, प्राचीर, परदा, अवरोध	diivaar,bhitti,praaciir,paradaa,avarodh
+truck	ट्रक, मालगाड़ी, वाहन, लोड गाड़ी, ट्रांसपोर्ट	ttrak,maalagaaddii
+sign	संकेत, चिन्ह, निशान, साइन, प्रतीक	samket,cinha,nishaan,saain,bhii likhanaa
+tall	लंबा, ऊँचा, गगनचुंबी, विशाल, ऊर्ध्व	uumcaa
+young	युवा, जवान, नवयुवक, कम उम्र का, किशोर	yuvatti,javaan,yuvak
+boy	लड़का, बालक, किशोर, युवक, बेटा	laddakaa,baalak,yuvak
+fire	आग	aag,phaayar
+fish	मछली, मत्स्य, मीन, जलचर, मछली जाति	machalii,matsya,miin,jalacar,machalii jaati
+fountain	फव्वारा, जलफुहारा, झरना, स्रोत, पानी का फव्वारा	phavvaaraa,phavaaraa,jharanaa,srot
+small	छोटा, लघु, सूक्ष्म, कम, नन्हा	chottaa, laghu, nanhaa, chotte, chottaa aakaar
+ride	सवारी करना, चलाना, झूलना, यात्रा करना, सवारी	calaanaa,jhuulanaa,savaarii,caddhanaa
+door	दरवाज़ा, द्वार, प्रवेश, फाटक, किवाड़	dvaar,pravesh,phaattak,daravaajaa
+plant	पौधा, पौधे, वनस्पति, प्लांट	paudhaa, paudhe, vanaspati, plaamtt
+bus	बस, बसगाड़ी, यात्री वाहन, सार्वजनिक वाहन, मोटरबस	bas
+statue	मूर्ति, प्रतिमा, मूर्तियाँ, स्तूप	muurti, pratimaa, muurtiyaam, stuup
+person	व्यक्ति, इंसान, मानव, आदमी, जन	vyakti,imsaan,maanav,aadamii,jan
+yellow	पीला, पीत, हरिद्राभ, सुनहरा, हल्दी रंग	piilaa,piit,haridraabh,sunaharaa,haldii ramg
+ski	स्की, स्की खेल, बर्फ़ फिसलन, हिम खेल, स्की उपकरण	skiim,skii,skiin
+stage	मंच, मञ्च, स्टेज, रंगमंच	mamc, manyca, sttej, ramgamamc
+desert	रेगिस्तान, मरुस्थल, बंजर भूमि, रेगिस्तानी	registaan, marusthal, registaanii
+ocean	महासागर, सागर, समुद्र, जलराशि, सिंधु	mahaasaagar,saagar,samudra,jalaraashi,simdhu
+run	दौड़ना, भागना, चलना, प्रवाहित होना, संचालित होना	dauddanaa,bhaaganaa,calanaa
+brick	ईंट, ईंटा, पकाई ईंट, निर्माण ईंट, ईंट पत्थर	iimtt,patthar
+ring	अंगूठी, छल्ला, वलय, घेरा, रिंग	amguutthii,gheraa,rimg
+castle	किला, दुर्ग, गढ़, राजमहल, प्राचीन किला	kilaa,durga,gaddh,raajamahal,praaciin kilaa
+restaurant	रेस्टोरेंट, भोजनालय, ढाबा, खानपान गृह, होटल	resttoremtt,bhojanaalay,resttraamtt,bhojan,ddaayanimg,ddaainimg
+girl	लड़की, बालिका, युवती, कन्या, बच्ची	laddakii,baalikaa,kanyaa,baccii
+ice	बर्फ, हिम, बर्फीला, हिमकण	barpha, barphiilaa, aais
+alley	गली, गलियां, रास्ता, नाला	galii, galiyaam, raastaa, naalaa
+bowling	बॉलिंग, गेंदबाज़ी, गेंद फेंकना, खेल तकनीक, बॉल खेल	bolimg,gemdabaazii,gemd phemkanaa,khel takaniik,bol khel
+ruin	खंडहर, बर्बाद करना	khamddahar,barbaad karanaa
+sun	सूरज, सूर्य, आदित्य, रवि, भानु	suuraj,suurya,aaditya,ravi,bhaanu
+shoe	जूता, जूती, पादत्राण, चरणरक्षा, फुटवियर	juutaa
+hold	पकड़ना, थामना, धारण करना, रोकना, संभालना	pakaddanaa, thaamanaa, dhaarann karanaa, rokanaa, sambhaalanaa
+closet	अलमारी, कोठरी	alamaarii,kottharii
+wind	हवा, पवन, वायु, समीर, झोंका	havaa,pavan,vaayu,vimdd
+dirt	मिट्टी, गंदगी, धूल, मैल, कीचड़	mittttii,gamdagii,dhuul,mail,kiicadd
+grass	घास	ghaas
+bamboo	बांस, बांसों, बाँस की लकड़ी	baams, baamsom, baams kii lakaddii
+dock	गोदी, घाट, जहाज़ घाट, डॉक, बंदरगाह स्थान	godii,ghaatt,plettaphorma,ddok,
+parking	पार्किंग, वाहन ठहराव, गाड़ी रखने की जगह, पार्क स्थल, वाहन स्थल	paarkimg
+cockpit	कॉकपिट, चालक कक्ष	kokapitt,kopitt,kokavitt
+tent	तंबू, शामियाना, डेरे, अस्थायी निवास, तंबूघर	tambuu,ttemtt,kaimp
+sink	सिंक, हौज, धंसना, डूबना, नाली	simk,dduubanaa,naalii
