@@ -10,8 +10,9 @@ st.set_page_config(layout="wide")
 # -------------------------
 # Paths (CHANGE THESE)
 # -------------------------
-JSONL_PATH = "dataset_multiling/final/PlacesHindi100k_train-processed-max7s_dev+english.json"
-VOCAB_PATH = "dataset_multiling/final/dev_vocab-max7s.txt"
+JSONL_PATH = "PlacesHindi100k_train-processed-max7s_dev+english.json"
+VOCAB_PATH = "dev_vocab-max7s.txt"
+CSV_PATH = "streamlit_caption_precision.csv"  # replace with your CSV file path
 
 # ---------------------------------------------------
 # LOAD DATA
@@ -170,7 +171,6 @@ st.sidebar.markdown(f"Page {page} of {total_pages}")
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Word Performance Table")
 
-CSV_PATH = "dataset_multiling/final/streamlit_caption_precision.csv"  # replace with your CSV file path
 
 @st.cache_data
 def load_metrics_csv(path):
