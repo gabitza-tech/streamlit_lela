@@ -229,9 +229,11 @@ for idx, selected_entry in enumerate(paginated_entries):
 
     col1, col2 = st.columns([2,2])
     with col1:
-        st.image(selected_entry["image_filepath"], width=400)
+        st.markdown("Should have been image")
+        #st.image(selected_entry["image_filepath"], width=400)
     with col2:
-        st.audio(selected_entry["audio_filepath"])
+        #st.audio(selected_entry["audio_filepath"])
+        st.markdown("Should have been audio")
 
         st.markdown("### Hindi Transcription")
         st.write(selected_entry.get("romanized_text"))
