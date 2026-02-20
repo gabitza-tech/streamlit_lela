@@ -13,6 +13,7 @@ st.set_page_config(layout="wide")
 JSONL_PATH = "PlacesHindi100k_train-processed-max7s_dev+english.json"
 VOCAB_PATH = "dev_vocab-max7s.txt"
 CSV_PATH = "streamlit_caption_precision.csv"  # replace with your CSV file path
+CSV_PATH_RECALL = "dataset_multiling/final/streamlit_caption_recall.csv"
 
 # ---------------------------------------------------
 # LOAD DATA
@@ -214,10 +215,20 @@ def load_metrics_csv(path):
     df[["tags-en","tags-hi","en-hi","diff_en-hi_tags-en"]] = df[["tags-en","tags-hi","en-hi","diff_en-hi_tags-en"]].round(3)
     return df
 
+st.sidebar.markdown("---")
+st.sidebar.markdown("### Word Precision Table")
+
 # Usage
 metrics_df = load_metrics_csv(CSV_PATH)
 
 st.sidebar.dataframe(metrics_df)
+
+st.sidebar.markdown("### Word Recall Table")
+# Usage
+metrics_df_recall = load_metrics_csv(CSV_PATH_RECALL)
+
+st.sidebar.dataframe(metrics_df_recall)
+
 
 # ---------------------------------------------------
 # MAIN DISPLAY
