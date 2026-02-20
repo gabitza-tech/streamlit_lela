@@ -13,7 +13,7 @@ st.set_page_config(layout="wide")
 JSONL_PATH = "PlacesHindi100k_train-processed-max7s_dev+english.json"
 VOCAB_PATH = "dev_vocab-max7s.txt"
 CSV_PATH = "streamlit_caption_precision.csv"  # replace with your CSV file path
-CSV_PATH_RECALL = "dataset_multiling/final/streamlit_caption_recall.csv"
+CSV_PATH_RECALL = "streamlit_caption_recall.csv"
 
 # ---------------------------------------------------
 # LOAD DATA
