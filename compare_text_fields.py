@@ -203,16 +203,18 @@ def load_metrics_csv(path):
     tags_en = parse_row(lines[1])
     tags_hi = parse_row(lines[2])
     en_hi   = parse_row(lines[3])
+    hi_en   = parse_row(lines[4])
 
     df = pd.DataFrame({
         "word": header,
         "tags-en": tags_en,
         "tags-hi": tags_hi,
-        "en-hi": en_hi
+        "en-hi": en_hi,
+        "hi-en": hi_en
     })
 
-    df["diff_en-hi_tags-en"] = df["en-hi"] - df["tags-en"]
-    df[["tags-en","tags-hi","en-hi","diff_en-hi_tags-en"]] = df[["tags-en","tags-hi","en-hi","diff_en-hi_tags-en"]].round(3)
+    df["diff_hi-en_tags-en"] = df["hi-en"] - df["tags-en"]
+    df[["tags-en","hi-en","tags-hi","diff_hi-en_tags-en"]] = df[["tags-en","hi-en","tags-hi","diff_hi-en_tags-en"]].round(3)
     return df
 
 st.sidebar.markdown("---")
